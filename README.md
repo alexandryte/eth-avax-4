@@ -63,4 +63,3 @@ Contributions to this project are welcome. If you'd like to contribute, please f
 
 This smart contract is licensed under the MIT License. You can find the full license text in the `LICENSE` file.
 
-**Note:** This README is a general template and should be customized to suit your project's specific details and requirements.
